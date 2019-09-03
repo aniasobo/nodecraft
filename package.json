@@ -1,0 +1,14 @@
+{
+  "name": "node-craftsman-exercise",
+  "version": "1.0.0",
+  "description": "learning node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jasmine-node/bin/jasmine-node spec/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "3.0.0"
+  }
+}
